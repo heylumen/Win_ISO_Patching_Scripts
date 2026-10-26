@@ -8,10 +8,6 @@
 		<hash type="sha-1">e57cf6837a8b9877786ec3e7a366503a6072f5e5</hash>
 		<url>https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/2e42e2b9-993c-4cc5-a8c5-6e20fc64b17e/public/windows11.0-kb5054156-arm64_e57cf6837a8b9877786ec3e7a366503a6072f5e5.msu</url>
 	</file>
-	<file name="windows11.0-kb5127648-arm64_630ff4173d7728e4123461cba51b63a6ec53df40.msu">
-		<hash type="sha-1">630ff4173d7728e4123461cba51b63a6ec53df40</hash>
-		<url>https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/037a7452-6152-4e16-a6bc-e495dbb16e50/public/windows11.0-kb5127648-arm64_630ff4173d7728e4123461cba51b63a6ec53df40.msu</url>
-	</file>
 	<file name="windows11.0-kb5127650-arm64_62a6522cb9f571370cf29ade6758ce1e684fc5a8.cab">
 		<hash type="sha-1">62a6522cb9f571370cf29ade6758ce1e684fc5a8</hash>
 		<url>https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/a4091701-b219-4337-a718-cfd817a0a8a8/public/windows11.0-kb5127650-arm64_62a6522cb9f571370cf29ade6758ce1e684fc5a8.cab</url>
@@ -23,5 +19,9 @@
 	<file name="windows11.0-kb5127690-arm64-ndp481_dc35585de600aee917ac0b63ebe645b214cc45b7.msu">
 		<hash type="sha-1">dc35585de600aee917ac0b63ebe645b214cc45b7</hash>
 		<url>https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/bb8658ec-7bb2-449a-8bdd-a32736244416/public/windows11.0-kb5127690-arm64-ndp481_dc35585de600aee917ac0b63ebe645b214cc45b7.msu</url>
+	</file>
+	<file name="windows11.0-kb5134133-arm64_a441364165aee90518f1e910bddbf508e9943c28.msu">
+		<hash type="sha-1">a441364165aee90518f1e910bddbf508e9943c28</hash>
+		<url>https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/8e9f8db6-fcab-4b47-bb61-eb40c6ebb286/public/windows11.0-kb5134133-arm64_a441364165aee90518f1e910bddbf508e9943c28.msu</url>
 	</file>
 </metalink>
